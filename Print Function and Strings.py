@@ -15,7 +15,6 @@
 # All the text below that is incased in quotes is a string
 # str = string
 
-print('Hello Tracer_11')
 print('This is a string within the print function') # single quote
 print("This is a string within the print function") # double quote
 print('''This is a string within the print function''') # triple quote
