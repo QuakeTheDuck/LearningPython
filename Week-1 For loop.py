@@ -90,3 +90,13 @@ You wrote:
 Output was the same for both of these in the shell. 3.6.1
 In there any adverse effects that could come from my way since the output was the same? If so could you give me an example.
 '''
+#RESPONSE
+'''
+Mainly, you violated Pep 8. My version is list comprehension, your version is just avoiding the styling. 
+Same thing with like if/else, you can also do all that on one line, but you're not supposed to.
+See here: https://pythonprogramming.net/list-comprehension-generators-intermediate-python-tutorial/ for what list comprehension is. 
+
+If you're not familiar with PEP8, here: https://www.python.org/dev/peps/pep-0008/
+
+It's a style guide for Python. You can choose to ignore it if you like, but people wont like reading and contributing to your code as much usually. 
+'''
