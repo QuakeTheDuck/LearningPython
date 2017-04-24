@@ -1,4 +1,4 @@
-## M/D/Y 04/23/2017
+## M/D/Y 04/22/2017
 ## Disclaimer: These are all personal notes. +=1 member - Thank you sentdex
 ## The use of the pound or hashtag is to make a note - alt+3 on the keyboard will add two '##' to the current line or all lines that you have selected
 ## Notes are used to help organize, understand and debug code
